@@ -1,6 +1,6 @@
 # Cultflix
 
-Você pode visualizar o projeto [aqui.](https://rhuanbello.github.io/cultflix/)
+Você pode visualizar o projeto [aqui.](https://cultflix-788sef8j7-rafael-santos-projects-2d762086.vercel.app/)
 
 ![](https://i.imgur.com/szk6csI.png)
 
